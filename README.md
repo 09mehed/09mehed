@@ -2,8 +2,10 @@
 ![I am a We Developer](https://i.ibb.co.com/VmJGCx9/Untitled-design.jpg)
 ### Hi there 👋, I am Foysal Al Mamun
 #### I am a We Developer
+#### Location: Topkhana Road, Segunbagicha Dhaka
+#### Email: foysalalmamun558@gmail.com
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am a web developer who is still learning and improving my skills. I am currently in the final year of my honors degree. I live in Kazipur, Sirajganj, and I have a strong passion for programming.
 
 Skills: REACT / JS / HTML / CSS/ Es6/ Express.js/ MongoDB/ JWT/
 
@@ -20,8 +22,6 @@ Skills: REACT / JS / HTML / CSS/ Es6/ Express.js/ MongoDB/ JWT/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=09mehed)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=09mehed&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/09mehed)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=09mehed)  
 
