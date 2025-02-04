@@ -1,30 +1,80 @@
+<div align="center">
+  <img height="350" src="https://camo.githubusercontent.com/b98d7c25f536e50f9193210f977118c1101c56c617462b48dc3f77b310428659/68747470733a2f2f692e6962622e636f2e636f6d2f566d4a474378392f556e7469746c65642d64657369676e2e6a7067"  />
+</div>
 
-![I am a We Developer](https://i.ibb.co.com/VmJGCx9/Untitled-design.jpg)
-### Hi there 👋, I am Foysal Al Mamun
-#### I am a We Developer
-#### Location: Topkhana Road, Segunbagicha Dhaka
-#### Email: foysalalmamun558@gmail.com
+###
 
-I am a web developer who is still learning and improving my skills. I am currently in the final year of my honors degree. I live in Kazipur, Sirajganj, and I have a strong passion for programming.
+<h1 align="left">Hello there... I am Foysal Al Mamun</h1>
 
-Skills: REACT / JS / HTML / CSS/ Es6/ Express.js/ MongoDB/ JWT/
+###
 
-- 🔭 I’m currently working on Learning 
-- 🌱 I’m currently learning React js 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about I am Web Developer 
+<p align="left">Email: foysalalmamun558@gmail.com</p>
 
+###
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/09mehed)  
+<p align="left">Contact: +8801619388873</p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=09mehed)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">About me</h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=09mehed&show_icons=true)  
+###
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=09mehed)  
+<p align="left">I am a web developer who is still learning and improving my skills. I am currently in the final year of my honors degree. I live in Kazipur, Sirajganj, and I have a strong passion for programming.<br><br>🔭 I’m currently working on Learning<br>🌱 I’m currently learning React js<br>👯 I’m looking to collaborate on Github<br>💬 Ask me about I am Web Developer</p>
 
+###
+
+<h2 align="center">I code with</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<h2 align="center">Contact Us</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/md-foysal-al-mamun/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/fs.foysalst" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="foysalalmamun558@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="+8801619388873" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=09mehed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=09mehed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 
 
