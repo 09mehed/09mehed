@@ -9,14 +9,6 @@
 
 ###
 
-<p align="left">Email: foysalalmamun558@gmail.com</p>
-
-###
-
-<p align="left">Contact: +8801619388873</p>
-
-###
-
 <h2 align="center">About me</h2>
 
 ###
