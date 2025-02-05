@@ -71,7 +71,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=09mehed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=09mehed&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=09mehed&theme=dark" height="150" alt="GitHub Streak" /></a>
 </div>
 
 
