@@ -1,10 +1,14 @@
 <div align="center">
-  <img height="300" src="https://i.ibb.co.com/yc8Pc7YT/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png"  />
+  <img height="230" src="https://i.ibb.co.com/yc8Pc7YT/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png"  />
 </div>
 
 ###
 
 <h1 align="left">Hello there... I am Foysal Al Mamun</h1>
+
+###
+
+<h1 align="left"> I Am a Mern stack Developer</h1>
 
 ###
 
