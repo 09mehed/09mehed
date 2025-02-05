@@ -1,6 +1,8 @@
+
 <div align="center">
-  <img height="400" src="https://camo.githubusercontent.com/b98d7c25f536e50f9193210f977118c1101c56c617462b48dc3f77b310428659/68747470733a2f2f692e6962622e636f2e636f6d2f566d4a474378392f556e7469746c65642d64657369676e2e6a7067"  />
+  <img height="150" src="https://i.ibb.co.com/qFD6qBzL/Navy-Blue-Geometric-Technology-Linked-In-Banner.png"  />
 </div>
+
 
 ###
 
