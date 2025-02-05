@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I am a web developer who is still learning and improving my skills. I am currently in the final year of my honors degree. I live in Kazipur, Sirajganj, and I have a strong passion for programming.<br><br>🔭 I’m currently working on Learning<br>🌱 I’m currently learning React js<br>👯 I’m looking to collaborate on Github<br>💬 Ask me about I am Web Developer</p>
+<p align="left">I am a web developer who is still learning and improving my skills. I am currently in the final project. and I have a strong passion for programming. I specialize in building scalable and interactive web applications using React, Node.js, Express.js, and MongoDB.<br><br>🔭 I’m currently working on Learning<br>🌱 I’m currently learning React js<br>👯 I’m looking to collaborate on Github<br>💬 Ask me about I am Web Developer</p>
 
 ###
 
