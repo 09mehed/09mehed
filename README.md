@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="https://camo.githubusercontent.com/b98d7c25f536e50f9193210f977118c1101c56c617462b48dc3f77b310428659/68747470733a2f2f692e6962622e636f2e636f6d2f566d4a474378392f556e7469746c65642d64657369676e2e6a7067"  />
+  <img height="400" src="https://camo.githubusercontent.com/b98d7c25f536e50f9193210f977118c1101c56c617462b48dc3f77b310428659/68747470733a2f2f692e6962622e636f2e636f6d2f566d4a474378392f556e7469746c65642d64657369676e2e6a7067"  />
 </div>
 
 ###
@@ -71,12 +71,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=09mehed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=09mehed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-<a href="https://git.io/streak-stats">
   <img src="https://git-hub-streak-stats.vercel.app?user=o9mehed&theme=dark" alt="GitHub Streak">
-</a>
+</div>
 
 
 
