@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://i.ibb.co.com/yc8Pc7YT/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png"  />
+  <img height="300" src="https://i.ibb.co.com/yc8Pc7YT/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png"  />
 </div>
 
 ###
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I am a web developer who is still learning and improving my skills. I am currently in the final project. and I have a strong passion for programming. I specialize in building scalable and interactive web applications using React, Node.js, Express.js, and MongoDB.<br><br>🔭 I’m currently working on Learning<br>🌱 I’m currently learning React js<br>👯 I’m looking to collaborate on Github<br>💬 Ask me about I am Web Developer</p>
+<p align="left">I am a Mern stack developer who is still learning and improving my skills. I am currently in the final project. and I have a strong passion for programming. I specialize in building scalable and interactive web applications using React, Node.js, Express.js, and MongoDB.<br><br>🔭 I’m currently working on Learning<br>🌱 I’m currently learning React js<br>👯 I’m looking to collaborate on Github<br>💬 Ask me about I am Web Developer</p>
 
 ###
 
