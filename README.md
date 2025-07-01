@@ -8,7 +8,7 @@
 
 ###
 
-<h1 align="left"> I Am a Mern stack Developer</h1>
+<h1 align="left"> I Am a Frontend Developer</h1>
 
 ###
 
